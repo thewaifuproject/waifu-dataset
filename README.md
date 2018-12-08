@@ -66,3 +66,6 @@ python scrapper.py
 ```
 
 All the scrapped data will be stored in `waifus.json`
+
+## Sources
+All the data and images come from [MyWaifuList](https://mywaifulist.moe)
