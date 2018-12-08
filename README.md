@@ -52,6 +52,8 @@ Extract from `waifus.json`:
 },
 ]
 ```
+## Full dataset
+The whole dataset, including images, which weights 3GB, is [hosted on Kaggle](https://www.kaggle.com/corollari/waifus).
 
 ## Build the dataset
 
