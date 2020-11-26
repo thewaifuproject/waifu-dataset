@@ -1,6 +1,6 @@
 import requests, json, shutil
 
-finalId = 18000 #17268
+finalId = 32796 #17268
 
 waifus = [] #json.loads(open("waifus.json", 'r').read())
 for waifuId in range(1, finalId):
